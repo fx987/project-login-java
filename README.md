@@ -7,5 +7,5 @@ back-end: (Spring boot) usando as teorias de encapsulamento, tratamento de exce�
 front-end: usando ReactJs com Typescript e algumas libs.
 
 Ambiente de desenvolvimento: VS code, Spring Tools.
-Instalação: Para startar o back-end e necessario a instalação do JDK e do maven / Para startar o front-end e necessario instalar o Pacote NPM no seu Sistema Operacional, e instalar as dependências com o comando `NPM I`;
+Instalação: Para startar o back-end e necessario a instalação do JDK e do maven / Para startar o front-end e necessario instalar o Pacote NPM no seu Sistema Operacional, e instalar as dependências com o comando `npm install`/`yarn install`;
 
